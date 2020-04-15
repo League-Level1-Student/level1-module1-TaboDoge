@@ -6,10 +6,10 @@ public class Platypus {
 	   private String name;
 	   
 	public Platypus(String name2) {
-name2 = name;
+this.name = name2;
 	}
 	  public void setName(String name3) {
-		  name3 = name;
+this.name = name3;
 	  }
 	    void sayHi(){
 	    
