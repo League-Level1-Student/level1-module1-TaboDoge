@@ -8,7 +8,7 @@ public class Cat {
         this.favoriteFood = favoriteFood;
         this.numberOfFriends = numberOfFriends;
  }
-void feedCat() {
+static void feedCat() {
 	System.out.println("Your cat is fed");
 }
 }
